@@ -1,0 +1,26 @@
+$colorTest: red;
+
+.container-navbar {
+  background-color: royalblue;
+}
+
+.navbar-links {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar-link-li {
+  list-style: none;
+}
+
+.navbar-link {
+  text-decoration: none;
+  font-size: 2em;
+  color: white;
+
+  &:hover {
+    color: $colorTest;
+  }
+}
