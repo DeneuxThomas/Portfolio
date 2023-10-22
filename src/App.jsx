@@ -8,7 +8,7 @@ function App() {
 
   //render
   return (
-    <div>
+    <div id="container-app">
       <NavBar />
     </div>
   );
