@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import './App.css'
+import './scss/App.scss'
 
 function App() {
 
