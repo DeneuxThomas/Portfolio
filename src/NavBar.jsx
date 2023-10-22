@@ -6,16 +6,9 @@ function NavBar() {
   //render
   return (
     <div>
-      TOTO
-      <nav>
-        <ul>
-          <li>onglet1</li>
-          <li>onglet2</li>
-          <li>onglet3</li>
-        </ul>
-      </nav>
+      <h1>TOTO</h1>
     </div>
   );
 }
 
-export default Navbar;
+export default NavBar;
