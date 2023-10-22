@@ -6,6 +6,7 @@ function NavBar() {
   //render
   return (
     <div>
+      TOTO
       <nav>
         <ul>
           <li>onglet1</li>
