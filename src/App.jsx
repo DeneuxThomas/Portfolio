@@ -1,9 +1,15 @@
 import "./scss/App.scss";
+import NavBar from "./NavBar.jsx";
 
 function App() {
+  //state état donné(name, setname, useSate)
+
+  //comportements
+
+  //render
   return (
     <div>
-      <h1 id="titre-h1">TOTO</h1>
+      <NavBar />
     </div>
   );
 }
