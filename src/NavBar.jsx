@@ -13,17 +13,32 @@ function NavBar() {
         <ul className="navbar-links">
           <li className="navbar-link-li">
             <a href="#" className="navbar-link">
-              onglet1
+              A PROPOS DE MOI
             </a>
           </li>
           <li className="navbar-link-li">
             <a href="#" className="navbar-link">
-              onglet2
+              MES COMPÉTENCES
             </a>
           </li>
           <li className="navbar-link-li">
             <a href="#" className="navbar-link">
-              onglet3
+              MES PROJETS
+            </a>
+          </li>
+          <li className="navbar-link-li">
+            <a href="#" className="navbar-link">
+              MON PARCOURS
+            </a>
+          </li>
+          <li className="navbar-link-li">
+            <a href="#" className="navbar-link">
+              CONTACT
+            </a>
+          </li>
+          <li className="navbar-link-li">
+            <a href="#" className="navbar-link">
+              CV
             </a>
           </li>
         </ul>
