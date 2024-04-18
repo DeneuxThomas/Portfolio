@@ -1,5 +1,4 @@
 //import
-import "./scss/APropos.scss";
 
 function APropos() {
   //state état donné(name, setname, useSate)
