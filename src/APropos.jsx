@@ -1,7 +1,7 @@
 //import
-import "./scss/NavBar.scss";
+import "./scss/APropos.scss";
 
-function NavBar() {
+function APropos() {
   //state état donné(name, setname, useSate)
 
   //comportements
@@ -41,4 +41,4 @@ function NavBar() {
   );
 }
 
-export default NavBar;
+export default APropos;
