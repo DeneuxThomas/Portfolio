@@ -11,7 +11,6 @@ function App() {
   return (
     <div id="container-app">
       <NavBar />
-      <p>test</p>
       <APropos />
     </div>
   );
