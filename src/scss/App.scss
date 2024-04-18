@@ -1,0 +1,10 @@
+.container-app {
+  background-image: repeating-linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.04) 0px,
+      rgba(255, 255, 255, 0.04) 2px,
+      transparent 2px,
+      transparent 4px
+    ),
+    linear-gradient(0deg, rgb(225, 42, 142), rgb(4, 2, 73));
+}
