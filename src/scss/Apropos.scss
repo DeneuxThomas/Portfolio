@@ -1,0 +1,53 @@
+$colorText: linear-gradient(90deg, #ffcc70 0%, #c850c0 60%, #4158d0 100%);
+
+.container-apropos {
+  display: flex;
+  gap: 15%;
+  align-items: center;
+}
+
+.apropos-titre {
+  font-size: 27px;
+  margin-bottom: 20px;
+}
+
+.apropos-image-moi {
+  max-width: 400px;
+  border: 10px solid rgb(75, 75, 75);
+  border-radius: 30px;
+}
+
+.apropos-paragraphe {
+  font-size: 21px;
+  text-align: justify;
+  padding: 7px 0;
+  //   padding-left: 10px;
+}
+
+.apropos-button-contact {
+  cursor: pointer;
+  margin: 35px 0px 0px 0px;
+  padding: 10px 24px;
+  background: rgb(30, 30, 30);
+  box-shadow: 0 0 15px black;
+  border-radius: 10px;
+  border: none;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    background: black;
+    box-shadow: 0 0 15px black;
+  }
+}
+
+.apropos-contact-link-button {
+  font-family: "Roboto", sans-serif;
+  font-size: 26px;
+  font-weight: 600;
+  color: transparent;
+  background-image: $colorText;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: rgb(75, 75, 75);
+}

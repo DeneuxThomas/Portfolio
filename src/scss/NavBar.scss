@@ -1,13 +1,23 @@
-$colorTest: red;
+$colorText: linear-gradient(90deg, #001063 0%, #b800ab 46%, #fffb00 100%);
 
 .container-navbar {
-  background-color: royalblue;
+  background-color: rgb(75, 75, 75);
+}
+
+.navbar {
+  height: 60px;
+  width: 95%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .navbar-links {
-  width: 80%;
-  margin: auto;
+  font-size: 26px;
   display: flex;
+  gap: 40px;
   justify-content: space-around;
 }
 
@@ -15,12 +25,22 @@ $colorTest: red;
   list-style: none;
 }
 
+.navbar-logo {
+  font-size: 32px;
+  font-weight: 600;
+  color: transparent;
+  background-image: $colorText;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .navbar-link {
   text-decoration: none;
-  font-size: 2em;
-  color: white;
+  color: rgb(200, 200, 200);
+  transition: color 0.3s ease-in-out;
 
   &:hover {
-    color: $colorTest;
+    color: white;
   }
 }
