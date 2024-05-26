@@ -1,0 +1,21 @@
+.qualites-titre {
+  margin-bottom: 50px;
+}
+
+.qualites-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.qualites-item {
+  padding: 20px;
+  border-radius: 30px;
+  background-color: rgb(75, 75, 75);
+}
+
+.qualites-text {
+  font-size: 19px;
+  text-align: justify;
+}

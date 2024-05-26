@@ -1,0 +1,61 @@
+.competences-titre {
+  margin-bottom: 50px;
+}
+
+.competences-content {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.competences-item {
+  display: flex;
+  margin-bottom: 30px;
+  align-items: center;
+  gap: 15px;
+}
+
+.competences-barre {
+  width: 300px;
+  height: 25px;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  border: solid 2px lightgray;
+}
+
+.competences-barre-inner {
+  height: 100%;
+  border-radius: 20px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: rgb(0, 175, 0) 65%;
+}
+
+.competence-moyen .competences-barre-inner {
+  width: 60%;
+}
+
+.competence-ok .competences-barre-inner {
+  width: 70%;
+}
+
+.competence-bien .competences-barre-inner {
+  width: 85%;
+}
+
+.competence-tb .competences-barre-inner {
+  width: 95%;
+}
+
+.competence-parfait .competences-barre-inner {
+  width: 100%;
+}
+
+.competences-img img {
+  width: 70px;
+}
+
+.competences-text {
+  color: white;
+}
