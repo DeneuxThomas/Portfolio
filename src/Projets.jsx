@@ -16,7 +16,7 @@ function Projets() {
         <div className="projet-grid">
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/medEcare.jpg" alt="medEcare" />
+              <img src="/medEcare.jpg" alt="medEcare" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">PWA d'une application médical</h3>
@@ -43,7 +43,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/billard.jpeg.png" alt="billard" />
+              <img src="/billard.jpeg.png" alt="billard" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">
@@ -69,7 +69,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/killbique.jpg" alt="killbique" />
+              <img src="/killbique.jpg" alt="killbique" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">
@@ -95,7 +95,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/map.png" alt="map" />
+              <img src="/map.png" alt="map" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">Carte du monde threeJS</h3>
@@ -117,7 +117,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/clothilde.jpg" alt="clothilde" />
+              <img src="/clothilde.jpg" alt="clothilde" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">
@@ -137,7 +137,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/ISABELLE_ISINGRINI.jpg" alt="ISINGRINI" />
+              <img src="/ISABELLE_ISINGRINI.jpg" alt="ISINGRINI" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">
@@ -158,7 +158,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/Stim_Studio.jpg" alt="Stim_Studio" />
+              <img src="/Stim_Studio.jpg" alt="Stim_Studio" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">
@@ -178,7 +178,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/descktop_builder.jpg" alt="descktop_builder" />
+              <img src="/descktop_builder.jpg" alt="descktop_builder" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">Site d'ecommerce</h3>
@@ -198,7 +198,7 @@ function Projets() {
 
           <div className="projet-item">
             <div className="projet-img">
-              <img src="/public/pokemon.jpg" alt="pokemon" />
+              <img src="/pokemon.jpg" alt="pokemon" />
             </div>
             <div className="projet-item-content">
               <h3 className="projet-title">PokaePokemon</h3>

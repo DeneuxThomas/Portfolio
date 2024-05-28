@@ -14,10 +14,10 @@ function Contact() {
       </div>
       <div className="content">
         <div className="CV-content">
-          <img src="/public/CV_Thomas_DENEUX.jpg" alt="cv" />
+          <img src="/CV_Thomas_DENEUX.jpg" alt="cv" />
           <div>
             <a
-              href="/public/CV_Thomas_DENEUX.pdf"
+              href="/CV_Thomas_DENEUX.pdf"
               download="CV_Thomas_DENEUX.pdf"
               className="btn-download text h2"
             >
@@ -30,25 +30,25 @@ function Contact() {
             className="text lien-contact"
             href="mailto:thomas.deneuxrahil@gmail.com"
           >
-            <img src="/public/Gmail.png" alt="Gmail" />
+            <img src="/Gmail.png" alt="Gmail" />
             Mon adresse mail
           </a>
           <a className="text lien-contact" href="tel:0649580201">
-            <img src="/public/phone.png" alt="phone" />
+            <img src="/phone.png" alt="phone" />
             Mon numéro de téléphone
           </a>
           <a
             className="text lien-contact"
             href="https://www.linkedin.com/in/thomas-dnx/"
           >
-            <img src="/public/linkedin.png" alt="linkedin" />
+            <img src="/linkedin.png" alt="linkedin" />
             Lien vers mon linkedin
           </a>
           <a
             className="text lien-contact"
             href="https://github.com/DeneuxThomas"
           >
-            <img src="/public/github.png" alt="github" />
+            <img src="/github.png" alt="github" />
             Lien vers mon github
           </a>
         </div>
