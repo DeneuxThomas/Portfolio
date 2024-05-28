@@ -28,17 +28,12 @@ function NavBar() {
             </a>
           </li>
           <li className="navbar-link-li">
-            <a href="#parcours" className="navbar-link">
-              Parcours
-            </a>
-          </li>
-          <li className="navbar-link-li">
             <a href="#contacts" className="navbar-link">
               Contact
             </a>
           </li>
           <li className="navbar-link-li">
-            <a href="#cv" className="navbar-link">
+            <a href="#contacts" className="navbar-link">
               CV
             </a>
           </li>
