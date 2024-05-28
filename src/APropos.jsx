@@ -53,7 +53,7 @@ function APropos() {
       </div>
       <div className="apropos-presentaion-droite">
         <img
-          src="/public/photo4.jpg"
+          src="/photo4.jpg"
           alt="ThomasDeneux"
           className="apropos-image-moi"
         />
